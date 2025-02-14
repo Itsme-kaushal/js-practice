@@ -1,6 +1,7 @@
 const accountId = 144553
 let accountEmail = "kaushal@gmail.com"
 var accountPassword = "12345678"
+//type annotations when we declare a variable on one line then initialize it later
 
 let apples : number = 5;
 let speet :string = 'fast';
