@@ -25,6 +25,16 @@ function logger(message: string) {
 
 
 logger(message);
+const forecast = {  
+    date: new Date(),
+    weather: 'sunny'
+};
+
+const logweather = ({ date, weather }: { date: Date, weather: string }): void => {
+    console.log(date);
+    console.log(weather);
+}
+logweather(forecast);
 
 
 console.log(add(4, 5));
