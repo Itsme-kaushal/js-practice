@@ -1,5 +1,9 @@
-// there is no types infernce on arguments 
-// however there is a type inferences on return value
+import promptSync from 'prompt-sync';
+
+const prompt = promptSync();
+// import ptompt from 'prompt-sync'; for taking input from user in node js
+
+const message = prompt('Enter your name`: ');
 
 const add = (a:number , b:number) :number => {
     return a+b;
@@ -14,18 +18,16 @@ const div = (a:number , b:number) :number => {
     return a/b;
 }
 
-const logger = (message : string) :void => {
-    console.log(message);
-};
-
-const throwError = (message : string) :void => {
-    
-    if(!message) {
-        throw new Error(message);
-    }
+function logger(message: string) {
+    console.log( `hello ${message}`);
 }
 
-console.log(add(4,5));
-console.log(sub(7,6));
-console.log(mul(7,6));
-console.log(div(7,6));
+
+
+logger(message);
+
+
+console.log(add(4, 5));
+console.log(sub(7, 6));
+console.log(mul(7, 6));
+console.log(div(7, 6));
