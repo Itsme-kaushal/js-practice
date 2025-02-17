@@ -28,4 +28,5 @@ const printVehicle = (Vehicle: Vehicle) => {
     Vehicle.turnOff();
 }
 printVehicle(audiold);
+//interfaces are defind to make code reusable and more readable
 
