@@ -442,7 +442,7 @@
 83/workspaces/js-practice/02maps/node_modules/faker/lib/locales/tr/address/country.js1739775021622617627 0
 77/workspaces/js-practice/02maps/node_modules/faker/lib/locales/es/name/name.js1739775022530617659 0
 93/workspaces/js-practice/02maps/node_modules/faker/lib/locales/de_AT/internet/domain_suffix.js1739775021710617630 0
-35/workspaces/js-practice/02maps/dist1739781762467512985 1
+35/workspaces/js-practice/02maps/dist1739783530351594940 1
 82/workspaces/js-practice/02maps/node_modules/faker/lib/locales/el/commerce/color.js1739775021570617625 0
 83/workspaces/js-practice/02maps/node_modules/faker/lib/locales/es/name/first_name.js1739775021926617638 0
 83/workspaces/js-practice/02maps/node_modules/@faker-js/faker/dist/locale/fr_LU.d.cts1739776815754680759 0
@@ -962,7 +962,7 @@
 62/workspaces/js-practice/02maps/node_modules/faker/locale/en.js1739775021754617631 0
 76/workspaces/js-practice/02maps/node_modules/faker/lib/locales/zu_ZA/index.js1739775022318617651 0
 82/workspaces/js-practice/02maps/node_modules/@faker-js/faker/dist/locale/fr_LU.d.ts1739776815918680765 0
-46/workspaces/js-practice/02maps/dist/index.html1739777215702694833 0
+46/workspaces/js-practice/02maps/dist/index.html1739783530351594940 0
 64/workspaces/js-practice/02maps/node_modules/faker/lib/locales/fa1739775022178617646 1
 89/workspaces/js-practice/02maps/node_modules/faker/lib/locales/nl/address/street_suffix.js1739775022838617670 0
 79/workspaces/js-practice/02maps/node_modules/faker/lib/locales/ro/name/suffix.js1739775022906617672 0
@@ -974,7 +974,7 @@
 83/workspaces/js-practice/02maps/node_modules/@faker-js/faker/dist/locale/pt_BR.d.cts1739776815762680759 0
 84/workspaces/js-practice/02maps/node_modules/faker/lib/locales/pl/company/adjetive.js1739775021442617621 0
 87/workspaces/js-practice/02maps/node_modules/faker/lib/locales/az/internet/free_email.js1739775022054617642 0
-41/workspaces/js-practice/02maps/index.html1739777256050696252 0
+41/workspaces/js-practice/02maps/index.html1739783513799594173 0
 82/workspaces/js-practice/02maps/node_modules/@faker-js/faker/dist/chunk-A422CE5A.js1739776815790680760 0
 82/workspaces/js-practice/02maps/node_modules/@faker-js/faker/dist/chunk-J6GQDZ26.js1739776815826680762 0
 83/workspaces/js-practice/02maps/node_modules/faker/lib/locales/tr/name/first_name.js1739775021942617638 0
