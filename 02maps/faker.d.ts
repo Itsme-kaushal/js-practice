@@ -1,1 +1,1 @@
-declare module 'faker';
+// This file can be deleted.

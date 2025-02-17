@@ -1,5 +1,0 @@
-4
-43/workspaces/js-practice/02maps/src/index.ts1739773170690552496 0
-41/workspaces/js-practice/02maps/index.html1739773262650555732 0
-34/workspaces/js-practice/02maps/src1739773089746549648 1
-30/workspaces/js-practice/02maps1739773190738553201 1

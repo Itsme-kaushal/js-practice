@@ -1,1 +1,4 @@
-console.log('Hello from index.ts');
+import { User } from "./user";
+
+const user = new User();
+console.log(user);
