@@ -35,3 +35,33 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//types of memory
+
+//stack(primitive )for eg number,bolean copy of data we get 
+//heap(non-primitive) real data refrence
+
+let myName = 'kaushal'
+
+let anotherName = myName
+
+anotherName = 'shailesh'
+// no change in actual name since it is stored in stack memory
+console.log(myName);
+
+console.log(anotherName);
+
+let userOne = {
+    email: "user@google.com"
+
+}
+
+let userTwo = userOne
+
+userTwo.email = 'kaushal@gmail.com'
+
+//output -> userone.email = usertwo.email since it is stored in heap memory
+// data is passes by refrence 
+console.log(userOne.email);
+console.log(userTwo.email);
+
