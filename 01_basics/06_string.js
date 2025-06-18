@@ -10,7 +10,7 @@ const repo = 50
 //we use backticks to use string interpolation
 console.log(`My name is ${name} and I have ${repo} repositories. `)
 
-const game = new String('Mario Kart');
+const game = new String('   Mario Kart   ');
 console.log(game);
 console.log(game.__proto__); // Access the prototype of the String object
 
@@ -23,6 +23,8 @@ console.log(game.charAt(0)); // Get character at index 0
 console.log(game.substring(0, 5)); // Get substring from index 0 to 5
 console.log(game.split(' ')); // Split the string into an array by spaces
 console.log(game.replace('Mario', 'Luigi')); // Replace a substring
+console.log(game.includes('Kart')); // Check if the string includes 'Kart'
+console.log(game.trim()); // Trim whitespace from both ends
 //original string remains unchanged
 console.log(game); // Output: Mario Kart
 
