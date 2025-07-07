@@ -21,4 +21,4 @@ console.log(`getDate : ${myDate.getDate()}`); // Get date
 console.log(`getDay : ${myDate.getDay()}`); // Get day of the week (0-6, 0 is Sunday)
 
 mydate2.toLocaleString('default', { timeZone: 'Asia/Kolkata' }); // Convert to a specific timezone
-console.log(`date in Asia/Kolkata timezone : ${mydate2.toLocaleString('default', { timeZone: 'Asia/Kolkata' })}`); // Date in Asia/K
+console.log(`date in Asia/Kolkata timezone : ${mydate2.toLocaleString('default', { timeZone: 'Asia/Kolkata' })}`); // Date in Asia/Kolkata
