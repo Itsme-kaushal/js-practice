@@ -48,7 +48,7 @@ console.log(myArray2.includes(6)); // false
 console.log(myArray2.reverse()); // [5, 4, 3, 2, 1]
 console.log(myArray2.sort()); // [1, 2, 3, 4, 5]
 console.log(myArray2.slice(1, 3)); // [2, 3]
-console.log(myArray2.slice(1)); // [2, 3, 4, 5]
+console.log(myArray.slice(1)); // [2, 3, 4, 5]
 
 console.log("removes 2 elements from index 1 :"+myArray2.splice(1, 2)); // [2, 3]// removes 2 elements starting from index 1
 console.log(myArray2); // [1, 4, 5]
